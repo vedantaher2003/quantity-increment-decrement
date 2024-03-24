@@ -16,6 +16,6 @@ Quantity increment or decrement product card use to buy product that you want to
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/Prajyot5015/quantity-increment-decrement
+1. Clone the repository: git clone https://github.com/vedantaher2003/quantity-increment-decrement
 2. Open the project directory.
 3. Run index.html in a web browser.
