@@ -4,7 +4,8 @@ Quantity increment or decrement product card Developed using HTML , CSS and Java
 
 
 # Dark
-(https://github.com/vedantaher2003/quantity-increment-decrement/assets/115220300/a7b8d348-56ba-4857-ae7b-466066a16a66)
+ ![Screenshot (88)](https://github.com/vedantaher2003/quantity-increment-decrement/assets/115220300/b24900ff-2141-495c-bdc7-7e13263450f2)
+
 
 
 
